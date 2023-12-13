@@ -6,4 +6,3 @@ const input = document.querySelector('input')!
     message.innerText = input.value;
   input.value = ''
   })
-
